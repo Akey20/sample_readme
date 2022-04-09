@@ -30,6 +30,10 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
 ### Assignment of Tasks: 
 
+## Code Sample
+''' python '''
+''' sample code '''
+
 ### Additional Notes
  1. All CSV files are in CSV folder and BLS_CSVs Folder
  2. ERD and SQL to create database and related tables are in SQL Folder

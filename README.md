@@ -30,8 +30,9 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
 ### Assignment of Tasks: 
 
-```
 ### sample code ###
+```
+
      1.Index
      <!DOCTYPE html>
 <html lang="en">

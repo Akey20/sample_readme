@@ -91,7 +91,7 @@ https://docs.google.com/presentation/d/1oFQ6-zfGDYauz9j9h9SasLrphnQLJ4a1MjnWOEru
 
 <br>
 WEBSITE DEMO
-<img valign="middle" src="https://img.shields.io/badge/See Below Sample Website Demo-brightgreen.svg">
+<img valign="middle" src="https://img.shields.io/badge/See Below Sample Website Demo-brightblue.svg">
 <br>
 
 https://user-images.githubusercontent.com/94247881/162534515-38fdd7ea-3d7a-4edc-9aad-0e7fdee5451a.mp4

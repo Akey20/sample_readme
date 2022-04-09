@@ -1,5 +1,5 @@
 
-# Crime Dashboard - Project 3 
+# :oncoming_police_car:  Crime Dashboard - Project 3 :oncoming_police_car: 
 
 ** April Key, Markus Shipley, Catharine Romero, Neil Tipton, Laleh Safarzadeh **
 <br>
@@ -11,7 +11,7 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 <br>
 ## <ins>Project Title</ins> 
 
-### :oncoming_police_car: Crime in Atlanta, GA :oncoming_police_car:
+### Crime in Atlanta, GA
 
 ## Project Desc/Outline 
 

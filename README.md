@@ -2,6 +2,7 @@
 # Crime Dashboard - Project 3 
 # :oncoming_police_car: Crime in Atlanta, GA :oncoming_police_car:
 ** April Key, Markus Shipley, Catharine Romero, Neil Tipton, Laleh Safarzadeh **
+An In Depth Analysis of crime in Atlanta, GA
 
 IMAGE
 <img valign="middle" src="https://img.shields.io/badge/See Below-brightgreen.svg">

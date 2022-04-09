@@ -1,10 +1,36 @@
 
-### April Key
+# Crime Dashboard - Project 3
+** April Key, Markus Shipley, Catharine Romero, Neil Tipton, Laleh Safarzadeh **
 
-### This is a sample 
-## this is a larger sample
-# Sample
+IMAGE
 
+### Project Title ###
+
+  Enter Title 
+
+### Project Desc/Outline ###
+
+
+### Research Questions this Database can Answer ###
+    
+
+### Datasets to be Used: ###
+
+
+### Breakdown of Tasks: ###
+
+
+
+### Schemata used in final database: ###
+
+
+### Assignment of Tasks: ###
+
+### Additional Notes
+ 1. All CSV files are in CSV folder and BLS_CSVs Folder
+ 2. ERD and SQL to create database and related tables are in SQL Folder
+ 3. All Final Jupyter Notebooks are in the Final Notebooks Folder
+ 4. All Images are in the Images Folder
 
 
 

@@ -42,10 +42,10 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
 <br>
 
-### sample code ###
+### Coding ###
 ```
 
-     1.Index
+     ## 1.Sample Database Code
      <!DOCTYPE html>
 <html lang="en">
 

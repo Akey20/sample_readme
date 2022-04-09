@@ -29,6 +29,13 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
 
 ### Assignment of Tasks: 
+<br>
+
+# Technologies
+<br>
+![Technologies Together](https://user-images.githubusercontent.com/94247881/162582340-5f85c5ed-274c-41cb-b5f1-166a999af908.png)
+
+
 
 ### sample code ###
 ```

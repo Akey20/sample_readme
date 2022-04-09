@@ -3,8 +3,6 @@
 
 ** April Key, Markus Shipley, Catharine Romero, Neil Tipton, Laleh Safarzadeh **
 <br>
-An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
-
 
 
 ![crime1](https://user-images.githubusercontent.com/94247881/162579152-0b81907b-a88f-4379-bbab-07d6a48a5346.jpg)
@@ -12,6 +10,7 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 ## <ins>Project Title</ins> 
 
 ### Crime in Atlanta, GA over 13 years
+An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
 ## Project Desc/Outline 
 

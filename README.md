@@ -11,7 +11,7 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 <br>
 ## <ins>Project Title</ins> 
 
-### Crime in Atlanta, GA
+### Crime in Atlanta, GA over 13 years
 
 ## Project Desc/Outline 
 

@@ -8,7 +8,7 @@ IMAGE
 
   Enter Title 
 
-### Project Desc/Outline ###
+ :hourglass_flowing_sand: ### Project Desc/Outline ###
 
 
 ### Research Questions this Database can Answer ###

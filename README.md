@@ -30,6 +30,7 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
 ### Assignment of Tasks: 
 
+```
 ### sample code ###
      1.Index
      <!DOCTYPE html>
@@ -61,7 +62,7 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 </body>
 
 </html>
-
+```
 
 ### Additional Notes
  1. All CSV files are in CSV folder and BLS_CSVs Folder

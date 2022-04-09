@@ -12,6 +12,13 @@
 ### Crime in Atlanta, GA over 13 years
 An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 
+### Slide Deck & Website
+<br>
+
+https://docs.google.com/presentation/d/1oFQ6-zfGDYauz9j9h9SasLrphnQLJ4a1MjnWOEruQt8/edit#slide=id.p3
+
+<br>
+
 ## Project Desc/Outline 
 
 

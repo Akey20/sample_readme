@@ -31,13 +31,36 @@ An In Depth Analysis of crime in Atlanta, GA from 2009 - 2020
 ### Assignment of Tasks: 
 
 ### sample code ###
-     1. What are the most common and least common sectors for the fastest growing private companies in America?
-     2. What cities and states are the most common locations for the fastest growing private companies in America? 
-        Analysis may also be performed by Sector. Are there any burgeoning hubs for any of these sectors?
-     3. How many employees are typically found in the fastest growing private companies,
-        and what does that say about the growth curve for growing businesses?
-     4. Among the fastest growing private companies, how does their growth compare to the overall growth of their industries? 
-     5. Which companies would be ranked higher or lower if compared relative to their industries and not in absolute terms?  
+     1.Index
+     <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Animal Adoption!</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container text-center">
+    <h1 class="jumbotron">Dogs up for Adoption!</h1>
+    <div>
+      <ul style="list-style: none;">
+
+        <!-- Loop through the dictionary -->
+        
+        {% for dog in dogs %}
+          <li style="color:blue">{{ dog.name }} who is a {{ dog.type }}</li>
+        {% endfor %}
+
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>
 
 
 ### Additional Notes

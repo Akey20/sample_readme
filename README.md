@@ -1,5 +1,5 @@
 
-# Crime Dashboard - Project 3
+# Crime Dashboard - Project 3 :police_car:
 ** April Key, Markus Shipley, Catharine Romero, Neil Tipton, Laleh Safarzadeh **
 
 IMAGE

@@ -5,7 +5,7 @@
 IMAGE
 <img valign="middle" src="https://img.shields.io/badge/See Below-brightgreen.svg">
 
-### Project Title ###
+### <ins>Project Title</ins> ###
 
   :closed_lock_with_key: Enter Title 
 

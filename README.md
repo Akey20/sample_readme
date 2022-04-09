@@ -3,6 +3,7 @@
 ** April Key, Markus Shipley, Catharine Romero, Neil Tipton, Laleh Safarzadeh **
 
 IMAGE
+<img valign="middle" src="https://img.shields.io/badge/for-example-brightgreen.svg">
 
 ### Project Title ###
 

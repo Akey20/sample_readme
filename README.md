@@ -6,9 +6,9 @@ IMAGE
 
 ### Project Title ###
 
-  Enter Title 
+  :closed_lock_with_key: Enter Title 
 
- :hourglass_flowing_sand: ### Project Desc/Outline ###
+### Project Desc/Outline ###
 
 
 ### Research Questions this Database can Answer ###

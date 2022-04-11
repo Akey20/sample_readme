@@ -31,8 +31,17 @@ Neighborhoods with least crime in Atlanta
 Breakdown of different types of crimes by Neighborhood
 <br>    
 
-## Datasets to be Used: 
-
+## Dataset Used: 
+https://www.atlantapd.org/i-want-to/crime-data-downloads
+<br>
+COBRA-2022 (Updated Daily)
+<br>
+COBRA-2021
+<br>
+COBRS-2020
+<br>
+COBRA 2009-2019 (10 Year Period)
+<br>
 
 ## Breakdown of Tasks: 
 

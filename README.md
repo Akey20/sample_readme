@@ -23,10 +23,13 @@ https://docs.google.com/presentation/d/1oFQ6-zfGDYauz9j9h9SasLrphnQLJ4a1MjnWOEru
 
 ## Research Questions this Database can Answer 
 Yearly crime trends
+<br>
 Neighborhoods with greatest crime in Atlanta
+<br>
 Neighborhoods with least crime in Atlanta
-
-    
+<br>
+Breakdown of different types of crimes by Neighborhood
+<br>    
 
 ## Datasets to be Used: 
 

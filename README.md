@@ -60,7 +60,7 @@ COBRA 2009-2019 (10 Year Period)
 
 <br>
 
-### Visualzations
+# Visualzations
 <br>
 
 ![npu_dash](https://user-images.githubusercontent.com/94247881/163009303-2d1d1ac3-b722-4b5c-9340-17b5dab2141c.JPG)

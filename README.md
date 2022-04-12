@@ -43,13 +43,6 @@ COBRS-2020
 COBRA 2009-2019 (10 Year Period)
 <br>
 
-## Breakdown of Tasks: 
-
-
-
-### Schemata used in final database: 
-
-
 ### Assignment of Tasks: 
 <br>
 
@@ -103,10 +96,7 @@ COBRA 2009-2019 (10 Year Period)
 ```
 
 ### Additional Notes
- 1. All CSV files are in CSV folder and BLS_CSVs Folder
- 2. ERD and SQL to create database and related tables are in SQL Folder
- 3. All Final Jupyter Notebooks are in the Final Notebooks Folder
- 4. All Images are in the Images Folder
+
 
 <br>
 WEBSITE DEMO

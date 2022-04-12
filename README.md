@@ -18,8 +18,6 @@ https://docs.google.com/presentation/d/1oFQ6-zfGDYauz9j9h9SasLrphnQLJ4a1MjnWOEru
 
 <br>
 
-## Project Desc/Outline 
-
 
 ## Research Questions this Database can Answer 
 Yearly crime trends
@@ -41,9 +39,6 @@ COBRA-2021
 COBRS-2020
 <br>
 COBRA 2009-2019 (10 Year Period)
-<br>
-
-### Assignment of Tasks: 
 <br>
 
 # Technologies

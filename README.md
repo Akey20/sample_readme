@@ -47,8 +47,11 @@ COBRA 2009-2019 (10 Year Period)
 
 ![Technologies Together](https://user-images.githubusercontent.com/94247881/162582340-5f85c5ed-274c-41cb-b5f1-166a999af908.png)
 
+
 <br>
 <br>
+<br>
+
 
 ![Virtual_environments](https://user-images.githubusercontent.com/94247881/162849044-d357c3b1-fde2-429c-aaaf-df5120206037.png)
 
@@ -95,11 +98,14 @@ COBRA 2009-2019 (10 Year Period)
 ![Dawntown_bubble](https://user-images.githubusercontent.com/94247881/163008393-fe416f53-0df1-435a-a192-12e413ba94fb.png)
 
 <br>
+<br>
+<br>
 
 
 ![downtown_bar](https://user-images.githubusercontent.com/94247881/163008500-b088db2b-07a0-4631-ba66-9d03b3ca1861.png)
 
 
+<br>
 <br>
 WEBSITE DEMO
 <img valign="middle" src="https://img.shields.io/badge/See Below Sample Website Demo-blue.svg">

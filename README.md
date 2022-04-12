@@ -95,7 +95,9 @@ COBRA 2009-2019 (10 Year Period)
 
 ### Visualzations
 <br>
-![Dawntown_bubble](https://user-images.githubusercontent.com/94247881/163008393-fe416f53-0df1-435a-a192-12e413ba94fb.png)
+
+![Dawntown_bubble](https://user-images.githubusercontent.com/94247881/163008893-ca4d33c1-68ea-477a-a619-8f5c7513c54c.png)
+
 
 <br>
 <br>
